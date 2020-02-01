@@ -118,7 +118,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Control 2.ctl" Type="VI" URL="../Control 2.ctl"/>
 		<Item Name="Control 3.ctl" Type="VI" URL="../Control 3.ctl"/>
 		<Item Name="Control 4.ctl" Type="VI" URL="../Control 4.ctl"/>
-		<Item Name="Global 2.vi" Type="VI" URL="../../2020 LIMELIGHT/Global 2.vi"/>
+		<Item Name="Global 2.vi" Type="VI" URL="../Global 2.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Untitled Library 1.lvlib" Type="Library" URL="../Untitled Library 1.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
