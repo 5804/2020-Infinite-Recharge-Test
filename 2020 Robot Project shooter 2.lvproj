@@ -114,10 +114,10 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
-		<Item Name="Control 1.ctl" Type="VI" URL="../../2020 Robot Project Shooter Wheel Testing/Control 1.ctl"/>
-		<Item Name="Control 2.ctl" Type="VI" URL="../../2020 Robot Project Shooter Wheel Testing/Control 2.ctl"/>
-		<Item Name="Control 3.ctl" Type="VI" URL="../../2020 Robot Project Shooter Wheel Testing/Control 3.ctl"/>
-		<Item Name="Control 4.ctl" Type="VI" URL="../../2020 Robot Project Shooter Wheel Testing/Control 4.ctl"/>
+		<Item Name="Control 1.ctl" Type="VI" URL="../Control 1.ctl"/>
+		<Item Name="Control 2.ctl" Type="VI" URL="../Control 2.ctl"/>
+		<Item Name="Control 3.ctl" Type="VI" URL="../Control 3.ctl"/>
+		<Item Name="Control 4.ctl" Type="VI" URL="../Control 4.ctl"/>
 		<Item Name="Global 2.vi" Type="VI" URL="../../2020 LIMELIGHT/Global 2.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Untitled Library 1.lvlib" Type="Library" URL="../Untitled Library 1.lvlib"/>
@@ -524,7 +524,7 @@ AddOutputFilter chunkFilter
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Limelight_Differential.vi" Type="VI" URL="../../DEEP SPACE LIMELIGHT EXAMPLE/Limelight_Differential.vi"/>
+			<Item Name="Limelight_Differential.vi" Type="VI" URL="../Limelight_Differential.vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
